@@ -4,7 +4,7 @@ An interactive Machine Learning web application that segments customers into dis
 
 ## 🔗 Live Demo
 Check out the live application here:  
-**[SmartCart Insights · Streamlit](https://clustered-consumer-insights.streamlit.app/)**
+**[SmartCart Insights · Streamlit](https://clustered-consumer-insights-kpiees33ffng6wwm22fn2b.streamlit.app/)**
 
 
 
