@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.decomposition import PCA
@@ -130,3 +131,4 @@ with c2:
     st.pyplot(fig)
 
 st.info("💡 **Tech Note:** The graph uses PCA to turn 7 variables into a 2D map. Your position (Red X) is calculated using the distance to the nearest group center.")
+
